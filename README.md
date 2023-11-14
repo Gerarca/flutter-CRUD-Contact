@@ -4,7 +4,11 @@
 
 A new Flutter project. This's a simple project, you can create, edit, delete and list contact on you phone.
 
+![alt text](https://github.com/Gerarca/flutter-CRUD-Contact/blob/master/document/create.png?raw=true)
 
+![alt text](https://github.com/Gerarca/flutter-CRUD-Contact/blob/master/document/update.png?raw=true)
+
+![alt text](https://github.com/Gerarca/flutter-CRUD-Contact/blob/master/document/delete.png?raw=true)
 
 ## Getting Started
 
